@@ -1,5 +1,3 @@
-:- use_module(library(clpfd)).
-
 %%——————————————— Data —————————————————%%
 
 % Rooms: small (one group/slot) or big (can host multiple groups for lectures)
